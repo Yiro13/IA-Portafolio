@@ -91,7 +91,7 @@ p {
    ========================================================================== */
 
 #header-section {
-	background: url(../img/header.jpg) no-repeat center top;
+	background: url(../img/fondo.png) no-repeat center top;
 	margin-top: -20px;
 	padding-top:20px;
 	text-align:center;
@@ -115,6 +115,7 @@ p {
 	font-weight: 900;
 	letter-spacing: 4px;
     line-height:70px;
+    text-shadow: 2px 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 #header-section h2 {
